@@ -15,6 +15,7 @@ This project uses an Artificial Neural Network (ANN) to predict the electrical e
 - Python
 - Pandas
 - NumPy
+- matplotlib
 - Scikit-learn
 - TensorFlow
 
