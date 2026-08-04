@@ -1,2 +1,2 @@
 # Deep_Learning
-Deep_Learning_project
+Collection_of_Deep_Learning_project
