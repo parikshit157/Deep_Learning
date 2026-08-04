@@ -12,7 +12,7 @@ This project implements a Recurrent Neural Network (RNN) for sentiment analysis 
 
 ## Technologies Used
 - Python
-- NumPy
+- Pandas
 - TensorFlow
 - Scikit-learn
 
