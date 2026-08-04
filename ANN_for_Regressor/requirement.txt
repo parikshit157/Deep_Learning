@@ -1,1 +1,5 @@
-
+Python
+Pandas
+NumPy
+Scikit-learn
+TensorFlow
