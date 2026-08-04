@@ -16,7 +16,7 @@ This project uses an Artificial Neural Network (ANN) to predict the electrical e
 - Pandas
 - NumPy
 - Scikit-learn
-- TensorFlow/Keras
+- TensorFlow
 
 ## Model
 ANN Regression Model with ReLU hidden layers and a linear output layer.
