@@ -12,8 +12,6 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 
 ## Technologies Used
 - Python
-- NumPy
-- Matplotlib
 - TensorFlow
 - Scikit-learn
 
